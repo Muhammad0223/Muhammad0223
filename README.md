@@ -1,4 +1,4 @@
-### Hey, I'm Mohammed! 🏆 550+ projects completed in the Development Journey 🏆 08+ years of Web Development and Custom Website Development.
+### Hey, I'm Muhammad! 🏆 550+ projects completed in the Development Journey 🏆 08+ years of Web Development and Custom Website Development.
 
 <!--
 **Muhammad0223/Muhammad0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
